@@ -1,2 +1,4 @@
-# land_trust_housing
-Sheridan County, WY Land Trust Housing
+# Land Trust Housing
+Sheridan County, WY 
+
+Dialog: Land Trust Housing 
